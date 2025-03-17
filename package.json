@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@adeunis/capacitor-serial": "^1.0.5",
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  }
+}
