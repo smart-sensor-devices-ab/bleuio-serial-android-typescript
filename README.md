@@ -1,13 +1,11 @@
-Here is a **GitHub `README.md`** file for your project. It focuses on **installation, requirements, and how to run the app**.  
 
----
 
 ### **README.md**  
 
 ```md
 # BleuIO Serial Communication on Android  
 
-This project enables **serial communication** between an **Android device** and a **BleuIO USB dongle** using **Capacitor 6** and `@adeunis/capacitor-serial`. The app allows sending and receiving **AT commands** over a USB OTG connection.
+This project in typescript enables **serial communication** between an **Android device** and a **BleuIO USB dongle** using **Capacitor 6** and `@adeunis/capacitor-serial`. The app allows sending and receiving **AT commands** over a USB OTG connection.
 
 ---
 
